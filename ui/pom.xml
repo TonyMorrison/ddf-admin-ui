@@ -17,7 +17,7 @@
     <parent>
         <groupId>org.codice.ddf</groupId>
         <artifactId>ui-admin</artifactId>
-        <version>2.25.0</version>
+        <version>2.25.1-SNAPSHOT</version>
     </parent>
     <artifactId>ui</artifactId>
     <groupId>org.codice.ddf</groupId>
